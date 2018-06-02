@@ -32,8 +32,8 @@
 			"Properties": {
 				"ContainerDefinitions": [
 				{
-					"Name": "awsstar-app-ecs",
-					"Image": "YOURREPONAME:latest",
+					"Name": "ecs-ecsapp",
+					"Image": "165786883241.dkr.ecr.us-east-1.amazonaws.com/ecr-ecsapp:latest",
 					"Cpu": "1",
 					"PortMappings": [ 
 					{
